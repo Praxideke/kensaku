@@ -11,7 +11,9 @@
   },
   "resultCount": "{{count}} результатов",
   "resultCount_one": "{{count}} результат",
-  "resultCount_other": "{{count}} результатов",
+  "resultCount_few": "{{count}} результата",
+  "resultCount_many": "{{count}} результатов",
+  "resultCount_other": "{{count}} результата",
   "modes": {
     "ranked": "По релевантности",
     "exhaustive": "Полный перебор"

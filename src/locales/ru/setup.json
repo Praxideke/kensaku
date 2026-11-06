@@ -88,7 +88,9 @@
   },
   "footer": {
     "folders_one": "{{count}} папка",
-    "folders_other": "{{count}} папок",
+    "folders_few": "{{count}} папки",
+    "folders_many": "{{count}} папок",
+    "folders_other": "{{count}} папки",
     "staysLocal": "Всё остаётся на этом компьютере.",
     "downloadToContinue": "Скачайте {{engine}}, чтобы продолжить.",
     "back": "Назад",
